@@ -1,3 +1,17 @@
+# PunkRecord-VI_Implementasi_Layanan_Keamanan_Berbasis_API
+
+KID Project merupakan proyek UAS mata kuliah Keamanan Informasi dan Data yang mensimulasikan layanan security server sederhana berbasis API menggunakan Python dan FastAPI. Proyek ini menunjukkan konsep dasar keamanan API, pengelolaan request–response, serta dokumentasi otomatis melalui Swagger UI.
+
+## UAS-KID-SEMESTER-3
+
+## Anggota Kelompok
+- **Kartika Nur Savira**
+- **Variesa Sabita Mumtaza Habib**
+- **Sabrina Amalia Putri**
+
+---
+
+
 # KID Project
 Project ini mensimulasikan layanan security server sederhana dalam bahasa Python.
 
